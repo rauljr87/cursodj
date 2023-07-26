@@ -2,4 +2,8 @@ código en local
 
 
 
+
 mis cambios en el mismo archivo desde la pc local
+
+Cambios que se están realizando editanto el mismo archivo
+
